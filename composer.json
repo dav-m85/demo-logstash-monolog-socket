@@ -1,0 +1,12 @@
+{
+    "name": "dav-m85/logstash-example",
+    "require": {
+        "monolog/monolog": "^1.16"
+    },
+    "authors": [
+        {
+            "name": "David Moreau",
+            "email": "david.moreau@frankandoak.com"
+        }
+    ]
+}
